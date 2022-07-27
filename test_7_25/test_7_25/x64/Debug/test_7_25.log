@@ -1,0 +1,3 @@
+﻿  字符串.c
+D:\github\test\test_7_25\test_7_25\字符串.c(9,23): warning C4013: “strlen”未定义；假设外部返回 int
+  test_7_25.vcxproj -> D:\github\test\test_7_25\x64\Debug\test_7_25.exe

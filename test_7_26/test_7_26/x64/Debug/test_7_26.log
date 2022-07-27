@@ -1,0 +1,5 @@
+﻿  game.c
+D:\github\test\test_7_26\test_7_26\game.c(24,10): warning C4013: “printf”未定义；假设外部返回 int
+D:\github\test\test_7_26\test_7_26\game.c(51,8): warning C4013: “scanf”未定义；假设外部返回 int
+D:\github\test\test_7_26\test_7_26\game.c(73,13): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test_7_26.vcxproj -> D:\github\test\test_7_26\x64\Debug\test_7_26.exe

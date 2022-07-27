@@ -1,0 +1,3 @@
+﻿  s.cpp
+D:\github\test\test_7_22\test_7_22\s.cpp(6): warning C4172: 返回局部变量或临时变量的地址: a
+  test_7_22.vcxproj -> D:\github\test\test_7_22\x64\Debug\test_7_22.exe
